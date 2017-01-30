@@ -1,0 +1,24 @@
+{
+  "name": "mario",
+  "version": "0.0.1",
+  "description": "A Gulp Boilerplate for the Modern Frontend Workflow",
+  "main": "gulp",
+  "scripts": {
+    "test": "npm run lint && npm run vendors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddiewang/mario.git"
+  },
+  "keywords": [
+    "gulp",
+    "frontend",
+    "less"
+  ],
+  "author": "Eddie Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eddiewang/mario/issues"
+  },
+  "homepage": "https://github.com/eddiewang/mario#readme"
+}
